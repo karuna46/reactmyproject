@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Image from './Image/team.jpeg'
+import Image from './Image/supra.jpg'
 import ReactPlayer from 'react-player'
 const Body = () => {
     const [likes, setLikes] = useState(0) // likes=15
